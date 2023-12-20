@@ -88310,20 +88310,20 @@ S(){return new A.Zr(B.k)}}
 A.Zr.prototype={
 D(a){var s=null,r=t.w,q=A.ab(a,B.u,r).w
 r=A.ab(a,B.u,r).w
-return A.a2(s,A.cs(B.b9,A.b([A.i8(s,new A.lL("/images/potential05.jpg","TAYLOR APPLEBAUM AND SEBASTIAN NOWOZIN","Unlocking insights in scientific literature","sPiOP_CB54A",s),s,s,s,2,5,s),A.i8(5,new A.lL("/images/potential02.jpg","R\xc9MI LEBLOND AND GABRIELA SURITA","Excelling at competitive programming","LvGmVmHv69s",s),s,s,2,s,s,s)],t.p),B.C,B.Z,s),B.e,s,s,s,s,q.a.b,s,s,s,s,r.a.a)}}
+return A.a2(s,A.cs(B.b9,A.b([A.i8(s,new A.lL("images/potential05.jpg","TAYLOR APPLEBAUM AND SEBASTIAN NOWOZIN","Unlocking insights in scientific literature","sPiOP_CB54A",s),s,s,s,2,5,s),A.i8(5,new A.lL("images/potential02.jpg","R\xc9MI LEBLOND AND GABRIELA SURITA","Excelling at competitive programming","LvGmVmHv69s",s),s,s,2,s,s,s)],t.p),B.C,B.Z,s),B.e,s,s,s,s,q.a.b,s,s,s,s,r.a.a)}}
 A.DL.prototype={
 S(){return new A.Zs(B.k)}}
 A.Zs.prototype={
 D(a){var s=null,r=t.w,q=A.ab(a,B.u,r).w
 r=A.ab(a,B.u,r).w
-return A.a2(s,A.cs(B.b9,A.b([A.i8(s,new A.lL("/images/potential01.jpg","ADRI\xc0 RECASENS","Processing and understanding raw audio signal end-to-end","D64QD7Swr3s",s),s,s,200,s,5,s)],t.p),B.C,B.Z,s),B.e,s,s,s,s,q.a.b,s,s,s,s,r.a.a)}}
+return A.a2(s,A.cs(B.b9,A.b([A.i8(s,new A.lL("images/potential01.jpg","ADRI\xc0 RECASENS","Processing and understanding raw audio signal end-to-end","D64QD7Swr3s",s),s,s,200,s,5,s)],t.p),B.C,B.Z,s),B.e,s,s,s,s,q.a.b,s,s,s,s,r.a.a)}}
 A.DM.prototype={
 S(){return new A.Zt(B.k)}}
 A.Zt.prototype={
 D(a){var s,r=null,q=t.w,p=A.ab(a,B.u,q).w
 q=A.ab(a,B.u,q).w
 s=A.b([new A.j(4281348930),new A.j(4278650375)],t.O)
-return A.a2(r,A.cs(B.b9,A.b([A.i8(r,new A.lL("/images/potential04.jpg","SAM CHEUNG","Explaining reasoning in math and physics","K4pX1VAxaAI",r),r,r,2,r,5,r),A.i8(5,new A.lL("/images/potential03.jpg","PALASH NANDY","Reasoning about user intent to generate bespoke experiences","v5tRc_5-8G4",r),r,r,r,2,r,r)],t.p),B.C,B.Z,r),B.e,r,r,new A.b2(r,r,r,r,r,new A.j0(B.p,0.5,B.T,r,0,s,r,r),B.B),r,p.a.b,r,r,r,r,q.a.a)}}
+return A.a2(r,A.cs(B.b9,A.b([A.i8(r,new A.lL("images/potential04.jpg","SAM CHEUNG","Explaining reasoning in math and physics","K4pX1VAxaAI",r),r,r,2,r,5,r),A.i8(5,new A.lL("images/potential03.jpg","PALASH NANDY","Reasoning about user intent to generate bespoke experiences","v5tRc_5-8G4",r),r,r,r,2,r,r)],t.p),B.C,B.Z,r),B.e,r,r,new A.b2(r,r,r,r,r,new A.j0(B.p,0.5,B.T,r,0,s,r,r),B.B),r,p.a.b,r,r,r,r,q.a.a)}}
 A.DN.prototype={
 S(){return new A.Zw(B.k)}}
 A.Zw.prototype={
@@ -97871,7 +97871,7 @@ $.aC0=null
 $.aAn=A.aD(t.N)
 $.aIK=A.aD(t.uz)
 $.aIa=function(){var s=t.s
-return A.b([A.b(["/images/snackable-01.png","NHLnjWTEZps"],s),A.b(["/images/snackable-02.png","Rn30RMhEBTs"],s),A.b(["/images/snackable-03.png","ki8kRJPXCW0"],s),A.b(["/images/snackable-05.png","HP2pNdCRT5M"],s),A.b(["/images/snackable-06.png","aRyuMNwn02w"],s),A.b(["/images/snackable-08.png","JPwU1FNhMOA"],s)],A.al("x<K<q>>"))}()
+return A.b([A.b(["images/snackable-01.png","NHLnjWTEZps"],s),A.b(["images/snackable-02.png","Rn30RMhEBTs"],s),A.b(["images/snackable-03.png","ki8kRJPXCW0"],s),A.b(["images/snackable-05.png","HP2pNdCRT5M"],s),A.b(["images/snackable-06.png","aRyuMNwn02w"],s),A.b(["images/snackable-08.png","JPwU1FNhMOA"],s)],A.al("x<K<q>>"))}()
 $.aOE=function(){var s=t.n
 return A.b([A.b([0.001200833568784504,0.002389694492170889,0.0002795742885861124],s),A.b([0.0005891086651375999,0.0029785502573438758,0.0003270666104008398],s),A.b([0.00010146692491640572,0.0005364214359186694,0.0032979401770712076],s)],t.zg)}()
 $.aOC=function(){var s=t.n
